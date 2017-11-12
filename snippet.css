@@ -1,0 +1,15 @@
+/* start sticky footer*/
+ 
+#main-footer {
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+/* Set footer height */
+body #main-footer {
+height: 75px ;
+}
+#main-content {
+margin-bottom: 45px;
+}
+/*end sticky footer*/
